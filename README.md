@@ -1,2 +1,2 @@
 # imco
-Based on the react of general UI framework
+general UI framework Based on React 
